@@ -555,7 +555,8 @@
         /* --- MODELO 3D (POSICIONAMENTO) --- */
         .auth-model-layer {
             position: absolute;
-            bottom: 90px;
+            top: 150px!important;
+            bottom: 100px;
             /* Acima da faixa rosa */
             left: 50%;
             transform: translateX(-50%);
